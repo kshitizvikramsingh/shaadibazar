@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+#id{
+    display:none
+}
+.card{
+    margin:20px;
+    
+    background-size: contain;
+}
+
+
+.categories{
+     background-image: url("https://img.freepik.com/free-vector/paisley-bandana-pattern_23-2148692551.jpg?size=338&ext=jpg&ga=GA1.1.44546679.1716854400&semt=ais_user");;
+     background-size: contain;
+    }
+
+.categories a{
+    color: rgb(13, 101, 179);
+}
+ img{
+    margin: 0px;
+    width: 100%;
+    height: 35px;
+}
