@@ -1,5 +1,5 @@
 #! /bin/bash
-
+rm -rf /home/ec2-user/shaadibazar
 mkdir /home/ec2-user/shaadibazar
 cd /home/ec2-user/shaadibazar
 
